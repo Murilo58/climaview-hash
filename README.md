@@ -9,6 +9,8 @@ O projeto foi desenvolvido como exercício prático de **desenvolvimento assisti
 🌐 **Aplicação online:**  
 https://murilo58.github.io/climaview-hash/
 
+![ClimaView Hash - Aplicação de Previsão do Tempo](./assets/climaview-hash-preview.png)
+
 ---
 
 ## 📸 Visão Geral
